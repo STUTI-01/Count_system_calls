@@ -11,6 +11,6 @@ Required tools (On Ubuntu 18.04):
 4. Redis-server
 
 How to run?
-gcc trace_programs.c
-python3 get_result.py)
+Step 1: gcc trace_programs.c
+Step 2 : python3 get_result.py)
 topsys.stp can be run in another terminal simultaneously (however, it's just an additional feature and not a requirement)
