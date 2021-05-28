@@ -5,10 +5,10 @@ It is a simple program that counts the number of system calls used by any applic
 How to run?
 
 Required tools (On Ubuntu 18.04):
-Wireshark 
-Systemtap
-Matplotlib
-Redis-server
+1. Wireshark 
+2. Systemtap
+3. Matplotlib
+4. Redis-server
 
 How to run?
 gcc trace_programs.c
